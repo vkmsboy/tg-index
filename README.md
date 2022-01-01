@@ -13,6 +13,9 @@
 
 ## Deploy Guide
 
+- **Direct Deploy on Railway**
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fodysseusmax%2Ftg-index&envs=API_ID%2CAPI_HASH%2CINDEX_SETTINGS%2CSESSION_STRING%2CPORT%2CHOST%2CDEBUG%2CBLOCK_DOWNLOADS%2CRESULTS_PER_PAGE%2CTGINDEX_USERNAME%2CPASSWORD%2CSHORT_URL_LEN%2CSECRET_KEY&optionalEnvs=PORT%2CHOST%2CDEBUG%2CBLOCK_DOWNLOADS%2CRESULTS_PER_PAGE%2CTGINDEX_USERNAME%2CPASSWORD%2CSHORT_URL_LEN%2CSECRET_KEY)
+
 - **Clone to local machine.**
 
 ```bash
